@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathone", "Hackathone.csproj", "{D16A74BB-5C44-7BCD-2789-277066EBC046}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathone.Plugins", "Hackathone.Plugins.csproj", "{E6A7DFED-B83A-0C1C-0F26-EB3188BFC19B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathone.Editor", "Hackathone.Editor.csproj", "{253FB942-78B9-BD06-29CC-E752BED57421}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D16A74BB-5C44-7BCD-2789-277066EBC046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D16A74BB-5C44-7BCD-2789-277066EBC046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D16A74BB-5C44-7BCD-2789-277066EBC046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D16A74BB-5C44-7BCD-2789-277066EBC046}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A7DFED-B83A-0C1C-0F26-EB3188BFC19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A7DFED-B83A-0C1C-0F26-EB3188BFC19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A7DFED-B83A-0C1C-0F26-EB3188BFC19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A7DFED-B83A-0C1C-0F26-EB3188BFC19B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{253FB942-78B9-BD06-29CC-E752BED57421}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253FB942-78B9-BD06-29CC-E752BED57421}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253FB942-78B9-BD06-29CC-E752BED57421}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253FB942-78B9-BD06-29CC-E752BED57421}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
